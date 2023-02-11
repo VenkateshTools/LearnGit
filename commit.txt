@@ -8,3 +8,6 @@ Steps included in commit
 -> git Repository
 
 git commit -m "commit message" 
+
+git commit 
+-> have to configure it is opening vim editor
