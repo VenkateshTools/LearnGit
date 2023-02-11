@@ -7,6 +7,9 @@ Steps included in commit
     (git commit)
 -> git Repository
 
+git add fileName
+git add file1Name file2Name
+
 git commit -m "commit message" 
 
 git commit 
