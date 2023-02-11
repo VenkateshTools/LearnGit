@@ -1,3 +1,10 @@
 Commit
 
-->
+Steps included in commit
+-> Working Directory 
+    (git add)
+-> Staging Area
+    (git commit)
+-> git Repository
+
+git commit -m "commit message"
