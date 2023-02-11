@@ -9,6 +9,8 @@ Steps included in commit
 
 git add fileName
 git add file1Name file2Name
+git add . 
+(to add all the files)
 
 git commit -m "commit message" 
 
