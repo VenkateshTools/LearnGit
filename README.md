@@ -1,9 +1,11 @@
-#Demo
+https://git-scm.com/docs
 
-Want to learn git
+Git Repository
 
-practice it
+git status
+    -> status in the current Repository
 
-## subheader
- 
- try hard
+git init
+    -> initializes the repository
+        -> on this command run there is a .git hidden folder gets created and whatever the changes that we make are going to get stored on this
+
