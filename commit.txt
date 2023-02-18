@@ -18,7 +18,7 @@ git commit
 -> have to configure it is opening vim editor 
 
 Set VS Code as Default
-->git config --global core.editor "code --wait"
+->git config --global core.editor "code --wait" 
 
 Atomic Commit
 -> It Suggests that each commit should represent only one feature or one fix
