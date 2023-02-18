@@ -20,3 +20,6 @@ git commit
 
 Atomic Commit
 -> It Suggests that each commit should represent only one feature or one fix
+
+Writing Commit message
+-> Present Tense & Imperative Stlye
