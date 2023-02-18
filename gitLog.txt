@@ -3,3 +3,5 @@ git log
 shows the history of the commits
 
 -> q to exit
+
+--oneline 
