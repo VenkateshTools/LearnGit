@@ -16,3 +16,7 @@ git commit -m "commit message"
 
 git commit 
 -> have to configure it is opening vim editor
+
+
+Atomic Commit
+-> It Suggests that each commit should represent only one feature or one fix
