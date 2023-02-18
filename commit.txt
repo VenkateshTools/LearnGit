@@ -15,7 +15,7 @@ git add .
 git commit -m "commit message" 
 
 git commit 
--> have to configure it is opening vim editor
+-> have to configure it is opening vim editor 
 
 
 Atomic Commit
