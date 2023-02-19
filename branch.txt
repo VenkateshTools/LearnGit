@@ -14,5 +14,8 @@ git branch <branch-name>
 git switch <branch-name>
 -> to switch between branches
 
+git checkout <branch-name>
+-> to switch between branches
+
 now on bugfix branch
 
