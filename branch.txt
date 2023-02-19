@@ -25,5 +25,12 @@ git checkout -b <branch-name>
 
 checkout vs switch 
 
-now on bugfix branch
+if we make a change and add it then we need to stash or commit it before switching branches
+
+git branch -D <branch-name>
+-> deletes the branch 
+-> we should checkout from that branch
+
+git branch -d <branch-name>
+-> deletes the branch but we have to make sure that it is fully merged
 
