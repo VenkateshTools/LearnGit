@@ -14,8 +14,13 @@ git branch <branch-name>
 git switch <branch-name>
 -> to switch between branches
 
+git switch -c <branch-name>
+-> create and switches to the new branch that we created
+
 git checkout <branch-name>
 -> to switch between branches
+
+checkout vs switch
 
 now on bugfix branch
 
