@@ -33,4 +33,8 @@ git branch -D <branch-name>
 
 git branch -d <branch-name>
 -> deletes the branch but we have to make sure that it is fully merged
+-> we should checkout from that branch
 
+git branch -m <new-branch-name>
+-> renames the branch
+-> have to be on the branch that we want to rename
