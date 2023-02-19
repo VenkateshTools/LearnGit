@@ -1,0 +1,18 @@
+Master , Main 
+The main branch is the default branch
+we can rename or delete git just considers it as another branch
+
+Head
+Current Play head (or the branch version or the current page we are in) Where we are
+
+git branch
+-> to know the branches in the current repository
+
+git branch <branch-name>
+-> creates a new branch with name branch name parameter
+
+git switch <branch-name>
+-> to switch between branches
+
+now on bugfix branch
+
