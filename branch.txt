@@ -20,6 +20,9 @@ git switch -c <branch-name>
 git checkout <branch-name>
 -> to switch between branches
 
+git checkout -b <branch-name>
+-> crates a new branch and swithes to it
+
 checkout vs switch
 
 now on bugfix branch
