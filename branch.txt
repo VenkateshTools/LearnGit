@@ -23,7 +23,7 @@ git checkout <branch-name>
 git checkout -b <branch-name>
 -> crates a new branch and swithes to it
 
-checkout vs switch
+checkout vs switch 
 
 now on bugfix branch
 
