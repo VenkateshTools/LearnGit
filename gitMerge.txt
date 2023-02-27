@@ -1,0 +1,4 @@
+Go to the branch you want to add changes of other branch
+git checkout <branch_To>
+git branch <the_fixBranch>
+
