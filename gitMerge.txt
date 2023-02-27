@@ -3,3 +3,5 @@ git checkout <branch_To>(main branch)
 git merge <the_fixBranch>
 
 git merge conflict
+Conflict Markers
+do a manual edit of the files where there are conflicts and resolve those
