@@ -38,3 +38,5 @@ git branch -d <branch-name>
 git branch -m <new-branch-name>
 -> renames the branch
 -> have to be on the branch that we want to rename
+
+git branch -v
