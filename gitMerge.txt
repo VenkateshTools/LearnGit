@@ -2,6 +2,7 @@ Go to the branch you want to add changes of other branch
 git checkout <branch_To>(main branch)
 git merge <the_fixBranch>
 
-git merge conflict
+git merge 
+conflict occur then manual steps should be done
 Conflict Markers
 do a manual edit of the files where there are conflicts and resolve those
