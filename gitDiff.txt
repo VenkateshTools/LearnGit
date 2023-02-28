@@ -17,8 +17,8 @@ green is added into the newer version
 this shows the starting line number first and the number of lines from the first number
 
 git diff Head
-This will show unstaged changes
+This will show unstaged changes (even though they are added)
 
 git diff --staged
 git diff --cached
-
+will show changes which are staged from last commit
