@@ -1,7 +1,7 @@
 git diff
 on run of this command we will get the diff in command line the result would be as below
 
-diff --git a/gitDiff.txt b/gitDiff.txt
+diff --git a/gitDiff.txt b/gitDiff.txt -> git diff will denote previous and current version as a/file , b/file
 index e69de29..e85de28 100644
 --- a/gitDiff.txt
 +++ b/gitDiff.txt
@@ -9,3 +9,9 @@ index e69de29..e85de28 100644
 +git diff
 +on run of this command we will get the diff in command line
 \ No newline at end of file
+
+black will show the common matter from both the files
+red is removed from the previous version
+green is added into the newer version
+@@ -0,0 +1,2 @@
+this shows the starting line number first and the number of lines from the first number
