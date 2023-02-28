@@ -30,3 +30,6 @@ git diff file1Name file2Name
 git diff between branches
 git diff branch1Name branch2Name
 git diff branch1Name..branch2Name
+
+git diff between commits
+git diff commit1Hash..commit2Hash
