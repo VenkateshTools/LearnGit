@@ -15,3 +15,5 @@ red is removed from the previous version
 green is added into the newer version
 @@ -0,0 +1,2 @@
 this shows the starting line number first and the number of lines from the first number
+
+git diff Head
