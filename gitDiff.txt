@@ -28,3 +28,5 @@ we can use git diff , or HEAD , or --staged , --cached with file names separated
 git diff file1Name file2Name
 
 git diff between branches
+git diff branch1Name branch2Name
+git diff branch1Name..branch2Name
