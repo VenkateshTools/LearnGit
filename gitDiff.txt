@@ -22,3 +22,7 @@ This will show unstaged changes (even though they are added)
 git diff --staged
 git diff --cached
 will show changes which are staged from last commit
+
+Specific File changes
+we can use git diff , or HEAD , or --staged , --cached with file names separated by space
+git diff file1Name file2Name
