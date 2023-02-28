@@ -18,3 +18,7 @@ this shows the starting line number first and the number of lines from the first
 
 git diff Head
 This will show unstaged changes
+
+git diff --staged
+git diff --cached
+
