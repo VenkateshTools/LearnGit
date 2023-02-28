@@ -1,0 +1,11 @@
+git diff
+on run of this command we will get the diff in command line the result would be as below
+
+diff --git a/gitDiff.txt b/gitDiff.txt
+index e69de29..e85de28 100644
+--- a/gitDiff.txt
++++ b/gitDiff.txt
+@@ -0,0 +1,2 @@
++git diff
++on run of this command we will get the diff in command line
+\ No newline at end of file
