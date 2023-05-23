@@ -15,5 +15,7 @@ git stash save
 git stash pop
 //applies the recent stash
 
+git stash list
 
+git stash apply stash@{}
 
