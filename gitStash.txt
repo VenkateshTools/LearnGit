@@ -1,0 +1,19 @@
+//git stash save
+//git stash pop
+//git stash apply
+
+why stash 
+
+//changes will come along if we didn't commit
+//else throws error if there are conflicts detected -> here we use stash
+
+git stash
+git stash save
+
+//both of them are save
+
+git stash pop
+//applies the recent stash
+
+
+
