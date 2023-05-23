@@ -19,3 +19,6 @@ git stash list
 
 git stash apply stash@{}
 
+git stash drop stash@{}
+
+git stash clear
