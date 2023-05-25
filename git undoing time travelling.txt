@@ -5,3 +5,4 @@ git checkout commitId
 -> get commit id from git status
 
 git switch branchname
+
