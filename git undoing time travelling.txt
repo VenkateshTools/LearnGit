@@ -1,0 +1,11 @@
+git checkout
+
+git checkout commitId
+
+-> get commit id from git status
+
+git switch branchname
+
+If we want to make a file (discard changes of the file to initial stage before commit)
+git checkout head <filenames>
+git checkout -- <file names>

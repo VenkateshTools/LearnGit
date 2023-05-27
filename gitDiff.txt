@@ -1,0 +1,35 @@
+git diff
+on run of this command we will get the diff in command line the result would be as below
+
+diff --git a/gitDiff.txt b/gitDiff.txt -> git diff will denote previous and current version as a/file , b/file
+index e69de29..e85de28 100644
+--- a/gitDiff.txt
++++ b/gitDiff.txt
+@@ -0,0 +1,2 @@
++git diff
++on run of this command we will get the diff in command line
+\ No newline at end of file
+
+black will show the common matter from both the files
+red is removed from the previous version
+green is added into the newer version
+@@ -0,0 +1,2 @@
+this shows the starting line number first and the number of lines from the first number
+
+git diff Head
+This will show unstaged changes (even though they are added)
+
+git diff --staged
+git diff --cached
+will show changes which are staged from last commit
+
+Specific File changes
+we can use git diff , or HEAD , or --staged , --cached with file names separated by space
+git diff file1Name file2Name
+
+git diff between branches
+git diff branch1Name branch2Name
+git diff branch1Name..branch2Name
+
+git diff between commits
+git diff commit1Hash..commit2Hash
