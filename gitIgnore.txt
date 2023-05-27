@@ -1,2 +1,4 @@
 Create a file .gitinore
 mention the files in this to ignore in add
+
+git checkout -- .DS_Store
